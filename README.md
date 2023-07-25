@@ -1,5 +1,5 @@
 # LoopIncrementer
 
 ## Languages Used 
-JavaScript
-CSS
+JavaScript + CSS
+
